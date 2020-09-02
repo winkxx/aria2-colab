@@ -18,10 +18,12 @@ OneClickRun：https://github.com/biplobsd/OneClickRun
 
 # 使用方法
 
-下载笔记本到本地，上传到Colab，参照源作者的一键脚本教程配置以下文件：
+1、下载笔记本到本地，上传到Colab，参照源作者的一键脚本教程配置以下文件：
 
 Rclone Config：https://p3terx.com/archives/offline-download-of-onedrive-gdrive.html
 
 Aria2 Config和Script Config：https://p3terx.com/archives/aria2-oneclick-installation-management-script.html
 
-配置好上传到可直链下载的位置后（可以直接用GoIndex等目录直链永久使用）输入到笔记本对应位置，一键执行，看到Aria2简单配置信息和rpc config后点击链接，复制下方rpc config地址和端口到ariang修改即可！（小白能力有限，魔改版直接调用源Colab作者ngrok配置操作，可使用源作者的免费token也可以使用自己的token。token获取地址：https://dashboard.ngrok.com/auth
+2、配置好上传到可直链下载的位置后（可以直接用GoIndex等目录直链永久使用）输入到笔记本对应位置，一键执行即可！
+
+PS：建议内网穿透选择ngrok。免费token可能不稳定，建议免费注册使用自己的token。token获取地址：https://dashboard.ngrok.com/auth
