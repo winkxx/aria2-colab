@@ -16,6 +16,10 @@ OneClickRun：https://github.com/biplobsd/OneClickRun
 
 优化源作者大佬开启上传GD方法，自行添加相关配置链接后安装即实现下载完成全自动上传Google Drive，完成后删除本地文件
 
+# 预览
+
+![Preview](https://github.com/hmglife/aria2-colab/raw/master/Preview.png)
+
 # 使用方法
 
 1、下载笔记本到本地，上传到Colab，参照源作者的一键脚本教程配置以下文件：
