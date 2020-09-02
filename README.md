@@ -20,6 +20,9 @@ OneClickRun：https://github.com/biplobsd/OneClickRun
 
 ![Preview](https://github.com/hmglife/aria2-colab/raw/master/Preview.png)
 
+![Speed Preview](https://github.com/hmglife/aria2-colab/raw/master/Speed%20Preview.png)
+
+
 # 使用方法
 
 1、下载笔记本到本地，上传到Colab，参照源作者的一键脚本教程配置以下文件：
