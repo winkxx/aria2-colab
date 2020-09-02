@@ -26,4 +26,4 @@ Aria2 Config和Script Config：https://p3terx.com/archives/aria2-oneclick-instal
 
 2、配置完成并上传到可直链下载的位置后（可以直接用GoIndex等目录直链永久使用）输入到笔记本对应位置，一键执行即可！
 
-PS：建议内网穿透选择ngrok。免费token可能不稳定，建议免费注册使用自己的token。token获取地址：https://dashboard.ngrok.com/auth
+PS：内网穿透建议选择ngrok。免费token可能不稳定，建议免费注册使用自己的token。token获取地址：https://dashboard.ngrok.com/auth
