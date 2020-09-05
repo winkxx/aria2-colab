@@ -27,9 +27,15 @@ OneClickRun：https://github.com/biplobsd/OneClickRun
 
 1、下载笔记本到本地，上传到Colab后，先配置以下内容：
 
-Rclone Config 配置教程推荐参考这篇：https://p3terx.com/archives/rclone-installation-and-configuration-tutorial.html ，本身有配置好的Config文件的输入直链即可，配置建议在外网linux环境下操作。win下也很方便，不过需要将cmd代理。一次配置，永久使用，建议长期保存便于使用其他如goindex的项目。
+Rclone Config 配置教程推荐参考这篇：https://p3terx.com/archives/rclone-installation-and-configuration-tutorial.html
 
-Aria2 Config和Script Config配置推荐参考这篇：https://p3terx.com/archives/offline-download-of-onedrive-gdrive.html ，建议下载作者默认文件修改上传提供直链即可。下载地址：Aria2 Config：https://github.com/P3TERX/aria2.conf/raw/master/aria2.conf ，Script Config：https://github.com/P3TERX/aria2.conf/raw/master/script.conf
+本身有配置好的Config文件的输入直链即可，配置建议在外网linux环境下操作。win下也很方便，不过需要将cmd代理。一次配置，永久使用，建议长期保存便于使用其他如goindex的项目。
+
+Aria2 Config和Script Config配置推荐参考这篇：https://p3terx.com/archives/offline-download-of-onedrive-gdrive.html
+
+建议下载作者默认文件修改上传提供直链即可。
+
+下载地址：Aria2 Config：https://github.com/P3TERX/aria2.conf/raw/master/aria2.conf ，Script Config：https://github.com/P3TERX/aria2.conf/raw/master/script.conf
 
 2、配置完成并上传到可直链下载的位置后（可以直接用GoIndex等目录直链永久使用）输入到笔记本对应位置，一键执行即可！
 
