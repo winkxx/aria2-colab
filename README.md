@@ -25,12 +25,14 @@ OneClickRun：https://github.com/biplobsd/OneClickRun
 
 # 使用方法
 
-1、下载笔记本到本地，上传到Colab，参照源作者的一键脚本教程配置以下文件：
+1、下载笔记本到本地，上传到Colab后，先配置以下内容：
 
-Rclone Config：https://p3terx.com/archives/offline-download-of-onedrive-gdrive.html
+Rclone Config 配置教程推荐参考这篇：https://p3terx.com/archives/rclone-installation-and-configuration-tutorial.html，本身有配置好的Config文件的输入直链即可，配置建议在外网linux环境下操作。win下也很方便，不过需要将cmd代理。一次配置，永久使用，建议长期保存便于使用其他如goindex的项目
 
-Aria2 Config和Script Config：https://p3terx.com/archives/aria2-oneclick-installation-management-script.html
+Aria2 Config和Script Config配置推荐参考这篇：https://p3terx.com/archives/offline-download-of-onedrive-gdrive.html，建议下载作者默认文件修改上传提供直链即可。下载地址：Aria2 Config：https://github.com/P3TERX/aria2.conf/raw/master/aria2.conf，Script Config：https://github.com/P3TERX/aria2.conf/raw/master/script.conf
 
 2、配置完成并上传到可直链下载的位置后（可以直接用GoIndex等目录直链永久使用）输入到笔记本对应位置，一键执行即可！
 
-PS：内网穿透建议选择ngrok。免费token可能不稳定，建议免费注册使用自己的token。token获取地址：https://dashboard.ngrok.com/auth
+PS：GoIndex项目推荐GoIndex-theme-acrou，配置见项目地址：https://github.com/Aicirou/goindex-theme-acrou
+
+内网穿透建议选择ngrok。免费token可能不稳定，建议免费注册使用自己的token。token获取地址：https://dashboard.ngrok.com/auth
