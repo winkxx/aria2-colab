@@ -39,7 +39,7 @@ Aria2 Config和Script Config配置推荐参考这篇：https://p3terx.com/archiv
 
 建议下载作者默认文件修改上传提供直链即可。
 
-下载地址：Aria2 Config：https://github.com/P3TERX/aria2.conf/raw/master/aria2.conf ，Script Config：https://github.com/P3TERX/aria2.conf/raw/master/script.conf
+下载地址：Aria2 Config：https://raw.githubusercontent.com/hmglife/aria2-colab/master/aria2.conf ，Script Config：https://raw.githubusercontent.com/hmglife/aria2-colab/master/script.conf
 
 
 2、配置完成并上传到可直链下载的位置后（可以直接用GoIndex等目录直链永久使用）输入到笔记本对应位置，一键执行即可！
