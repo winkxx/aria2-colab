@@ -16,7 +16,7 @@ OneClickRun：https://github.com/biplobsd/OneClickRun
 
 使用源作者大佬Aria2完美配置方案。
 
-优化源作者大佬开启上传GD方法，自行添加相关配置链接后安装即实现下载完成全自动上传Google Drive，完成后删除本地文件。
+下载完成自动上传Google Drive，无需任何手动操作。完成后自动删除本地文件释放空间，便于在Colab12小时内继续下载，
 
 
 # 预览
@@ -34,13 +34,9 @@ Rclone Config 配置教程推荐参考这篇：https://p3terx.com/archives/rclon
 
 本身有配置好的Config文件的输入直链即可，配置建议在外网linux环境下操作。win下也很方便，不过需要将cmd代理。一次配置，永久使用，建议长期保存便于使用其他如goindex的项目。
 
+Script Config配置推荐参考这篇：https://p3terx.com/archives/offline-download-of-onedrive-gdrive.html
 
-Aria2 Config和Script Config配置推荐参考这篇：https://p3terx.com/archives/offline-download-of-onedrive-gdrive.html
-
-建议下载作者默认文件修改上传提供直链即可。
-
-下载地址：Aria2 Config：https://raw.githubusercontent.com/hmglife/aria2-colab/master/aria2.conf ，Script Config：https://raw.githubusercontent.com/hmglife/aria2-colab/master/script.conf
-
+Script Config配置文件下载：https://github.com/hmglife/aria2-colab/raw/master/script.conf
 
 2、配置完成并上传到可直链下载的位置后（可以直接用GoIndex等目录直链永久使用）输入到笔记本对应位置，一键执行即可！
 
