@@ -44,3 +44,5 @@ Script Config配置文件下载：https://github.com/hmglife/aria2-colab/raw/mas
 PS：GoIndex项目推荐GoIndex-theme-acrou，配置见项目地址：https://github.com/Aicirou/goindex-theme-acrou
 
 内网穿透建议选择ngrok。免费token可能不稳定，建议免费注册使用自己的token。token获取地址：https://dashboard.ngrok.com/auth
+
+Colab实例理论只能用12小时，之后会删除实例，所以不建议下慢种。启动后浏览器Colab面板不要关，理论上不会掉线。
