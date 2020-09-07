@@ -38,7 +38,7 @@ Script Config配置推荐参考这篇：https://p3terx.com/archives/offline-down
 
 Script Config配置文件下载：https://github.com/hmglife/aria2-colab/raw/master/script.conf
 
-2、配置完成并上传到可直链下载的位置后（可以直接用GoIndex等目录直链永久使用）输入到笔记本对应位置，一键执行即可！
+2、配置完成并上传到可直链下载的位置后（可以直接fork上传你的配置文件到仓库或者用GoIndex等目录直链永久使用）输入到笔记本对应位置，一键执行即可！
 
 
 # PS
