@@ -21,7 +21,7 @@ OneClickRun：https://github.com/biplobsd/OneClickRun
 
 # 预览
 
-![Preview](https://github.com/hmglife/aria2-colab/raw/master/Preview.png)
+
 
 ![Speed Preview](https://github.com/hmglife/aria2-colab/raw/master/Speed%20Preview.png)
 
