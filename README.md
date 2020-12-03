@@ -50,5 +50,3 @@ GoIndex项目推荐GoIndex-theme-acrou，配置见项目地址：https://github.
 ngrok免费token可能不稳定，建议免费注册使用自己的token。token获取地址：https://dashboard.ngrok.com/auth
 
 测速和检测上传功能种子推荐：https://releases.ubuntu.com/20.04/ubuntu-20.04.1-desktop-amd64.iso.torrent
-
-Colab实例理论只能用12小时，之后会删除实例，所以不建议下慢种。启动后浏览器Colab面板不要关，理论上不会掉线。
